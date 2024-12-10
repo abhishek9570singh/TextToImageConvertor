@@ -1,4 +1,4 @@
-const key = "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";  /*to access Api key*/
+// const key = "You Can use your token";  /*to access Api key*/
 const inputText = document.getElementById("input");  /*to access input text*/
 const image = document.getElementById("image");   /*to access image*/
 const GenBtn = document.getElementById("btn");   /*to access Generate button*/
